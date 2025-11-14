@@ -1,0 +1,27 @@
+Uses VS Code, one main file main.py, easy to run with python main.py.
+
+Personal user profile that drives budget recommendations.
+
+Budgeting lesson plus interactive budget game.
+
+Investment game with three stocks and:
+
+Random daily price moves.
+
+Text charts in the terminal that look animated as days progress.
+
+Real matplotlib line charts that pop up in a separate window.
+
+Hint Bot you can ask about budgets, investing, or debt.
+
+Interest calculators for:
+
+Simple savings.
+
+IRA, 401k, 403b style retirement accounts.
+
+Savings accounts.
+
+Housing loan (mortgage) payment and interest, with an optional amortization chart.
+
+All calculators and simulations are clearly labeled as educational, not real financial advice.
