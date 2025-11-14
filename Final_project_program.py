@@ -1,7 +1,7 @@
 import random
 import textwrap
 import time
-
+def main()
 
 try:
     import matplotlib.pyplot as plt
@@ -10,7 +10,7 @@ except Exception:
     MATPLOTLIB_AVAILABLE = False
 
 
-# ============= CLASSES =============
+
 
 class UserProfile:
     def __init__(self, name, age, occupation, marital_status, goal):
